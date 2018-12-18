@@ -1,4 +1,4 @@
-update=12/18/2018 11:33:17 AM
+update=12/18/2018 1:57:58 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -20,9 +20,6 @@ SolderMaskMinWidth=0.000000000000
 DrawSegmentWidth=0.200000000000
 BoardOutlineThickness=0.100000000000
 ModuleOutlineThickness=0.150000000000
-[cvpcb]
-version=1
-NetIExt=net
 [eeschema]
 version=1
 LibDir=G:/Program Files/KiCad/share/kicad/library/AT89S52
@@ -62,6 +59,11 @@ LibName32=contrib
 LibName33=valves
 LibName34=AT89S52
 LibName35=G:/Program Files/KiCad/share/kicad/library/AT89S52/AT89S52_SH
+[general]
+version=1
+[cvpcb]
+version=1
+NetIExt=net
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -71,6 +73,4 @@ SubpartFirstId=65
 NetFmtName=
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
-LabSize=60
-[general]
-version=1
+LabSize=30
